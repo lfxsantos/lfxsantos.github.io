@@ -1,0 +1,11 @@
+:root { color-scheme: light; }
+* { box-sizing: border-box; }
+body { margin: 0; font-family: -apple-system, system-ui, Segoe UI, Roboto, Arial, sans-serif; line-height: 1.5; }
+.wrap { max-width: 900px; margin: 0 auto; padding: 18px; }
+header { display: flex; gap: 16px; align-items: center; justify-content: space-between; border-bottom: 1px solid #eee; }
+.brand { font-weight: 700; letter-spacing: .2px; }
+.nav a { margin-left: 12px; text-decoration: none; color: #222; padding: 6px 10px; border-radius: 10px; }
+.nav a.active, .nav a:hover { background: #f2f2f2; }
+.card { margin-top: 22px; border: 1px solid #eee; border-radius: 16px; padding: 18px; }
+.list { padding-left: 18px; }
+.footer { margin-top: 22px; border-top: 1px solid #eee; color: #666; }
