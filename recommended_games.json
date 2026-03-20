@@ -2,6 +2,7 @@
  "recommended_games": [
    "hangman",
    "sudoku",
-   "cryptogram"
+   "cryptogram",
+  "word_search"
  ]
 }
